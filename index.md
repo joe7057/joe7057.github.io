@@ -1,6 +1,6 @@
 # Joseph Smith
-#### Phone: (204) XXX-XXXX
-#### Email: josephosmith@live.ca
+ Phone: (204) XXX-XXXX  
+ Email: josephosmith@live.ca  
 
 ## Profile
 
