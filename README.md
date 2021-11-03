@@ -22,7 +22,7 @@ Using Markdown has significant advantages for us, both for writing this resume a
 3) Make sure that the repository is set to public, and that the options *Add a README file*, *Add .gitignore*, and *Choose a license* are not checked.
 4) Click on *Create Repository*
 
-[Gif showing how to create repository](https://github.com/joe7057/joe7057.github.io/blob/main/create%20a%20repository%20named%20as%20yourgithubusername.github.io.gif?raw=true)
+![Gif showing how to create repository](https://github.com/joe7057/joe7057.github.io/blob/main/create%20a%20repository%20named%20as%20yourgithubusername.github.io.gif?raw=true)
 
 
 
