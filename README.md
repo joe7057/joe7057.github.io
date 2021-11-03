@@ -4,7 +4,7 @@
 2) To relate the practical steps described above to the general principles of current Technical Writing, as explained in Andrew Etter's book *Modern Technical Writing*.
 
 ### II. Prerequisites
-- a markdown-formatted essay (seem *More Resources* for help with this)
+- a markdown-formatted resume (seem *More Resources* for help with this)
 - a GitHub Account
 - a markdown editor such as Apostrophe
 - Jekyll (built into GitHub)
