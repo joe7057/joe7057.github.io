@@ -31,7 +31,7 @@ Using the same version control system for your documentation as is used for the 
 #### 3) Upload your resume
 
 1) In the new repository, click *Add File* and select *Upload Files*
-2) Drag your resume markdown file, named *index.md*, into the upload boc
+2) Drag your resume markdown file, named *index.md*, into the upload box
 3) Add a commit message and press *Commit Changes*.
 
 ![Gif showing how to upload your resume file](https://github.com/joe7057/joe7057.github.io/blob/main/in%20the%20repository,%20click%20add%20file%20and%20upload%20your%20index.md%20file%20in%20to%20the%20repository.gif?raw=true)
